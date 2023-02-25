@@ -1,0 +1,1 @@
+execute as @r run summon minecraft:wandering_trader ~ ~ ~
