@@ -1,1 +1,1 @@
-execute as @r summon minecraft:wandering_trader ~ ~ ~
+execute as @r run summon minecraft:wandering_trader ~ ~ ~
