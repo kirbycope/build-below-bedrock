@@ -1,6 +1,6 @@
+![build-below-bedrock](/build-below-bedrock.png)
 # build-below-bedrock
 Build below bedrock for Minecraft Java.
-![build-below-bedrock](/build-below-bedrock.png)
 
 ## Installation
 Use an existing world that is already setup to use the datapack.
